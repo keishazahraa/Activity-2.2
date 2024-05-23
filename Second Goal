@@ -1,0 +1,12 @@
+import React from 'react';
+
+function SecondGoal() {
+  return (
+    <div>
+      <h2>Goal 2</h2>
+      <p>Living a good life</p>
+    </div>
+  );
+}
+
+export default SecondGoal;
